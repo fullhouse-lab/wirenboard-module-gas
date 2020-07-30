@@ -1,0 +1,22 @@
+{
+  "name": "wirenboard-module-gas",
+  "version": "1.10.0",
+  "description": "Gas manager",
+  "main": "./wb-rules-modules/gas.js",
+  "keywords": [
+    "wirenboard",
+    "wb",
+    "module",
+    "gas",
+    "fullhouse"
+  ],
+  "author": "FullHouse <support@fullhouse-online.ru>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullhouse-lab/wirenboard-module-gas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fullhouse-lab/wirenboard-module-gas/issues/"
+  },
+  "license": "ISC"
+}
